@@ -13,7 +13,7 @@ luego asígnale un nombre y el monto correspondiente, posteriormente presiona el
 - Puedes ver a qué porcentajes de tu egreso total corresponde a cada uno de tus egresos.
 
 
-### Errores detectado para mejorar a futuro :wrench:
+### Errores detectado para mejorar a futuro
 - No adaptable para dispositivos con pantalla menor a 400px de ancho.
 - No cuenta con Favicon
 - La aplicación permite  agregar datos con el campo del monto en blanco.

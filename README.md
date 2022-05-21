@@ -2,7 +2,7 @@
 Esta es una aplicación que te permite llevar un balance de tus finanzas.
 
 ## ¿Como funciona?
-¡Es muy fácil! Solo tienes ingresa un par de campos.
+¡Es muy fácil! Solo tienes ingresa un par de campos.<br>
 La aplicación te pedirá que selecciones si lo que quieres agregar es un ingreso o un egreso,
 luego asígnale un nombre y el monto correspondiente, posteriormente presiona el botón de agregar y listo.
 
